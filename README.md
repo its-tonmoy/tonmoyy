@@ -323,7 +323,7 @@ The optional section blocks have styling for h3 (the block title), h4, p, and ul
 * Updated docs to add image section
 
 ### 1.1.2
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/45f7f10f-badb-4d94-bc5d-6c5fd056c094/deploy-status)](https://app.netlify.com/sites/tonmoyyy/deploys)
 * Added `no-scroll` class option to header navigation anchor if you want to link to external site
 * Changed contact form input / textarea colours to be based off `$base-color`
 * Changed main background to 100vh so it doesn't overflow if viewport height < 700px
@@ -343,3 +343,4 @@ The optional section blocks have styling for h3 (the block title), h4, p, and ul
 ## License
 
 Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/45f7f10f-badb-4d94-bc5d-6c5fd056c094/deploy-status)](https://app.netlify.com/sites/tonmoyyy/deploys)
